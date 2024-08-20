@@ -1,6 +1,6 @@
 def registry = "https://mayankdev01.jfrog.io"
 def imageName = 'mayankdev01.jfrog.io/mayank-docker-local/ttrend'
-def version   = '2.1.4'
+def version   = '2.1.5'
 
 
 

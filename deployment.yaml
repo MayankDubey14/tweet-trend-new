@@ -17,7 +17,7 @@ spec:
       - name: cred
       containers:
       - name:  valaxy-rtp
-        image: mayankdev01.jfrog.io/mayank-docker/ttrend:2.1.4
+        image: mayankdev01.jfrog.io/mayank-docker/ttrend:2.1.5
         imagePullPolicy: Always
         ports:
         - containerPort: 8000
